@@ -133,7 +133,7 @@ ti2.ZPosition.Value=ZBottomInUnit; % to make sure the movement is good
 zposition=get(ti2,'iZPOSITION');
 ZOrderNum = 1;
 
-%% setup Sola
+%% setup Sola illumination
 Sola = serial('COM4'); %creat the serial COM4 for communicate with light engine
 
 fopen(Sola); % active this COM port
