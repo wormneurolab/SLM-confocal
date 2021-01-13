@@ -5,7 +5,7 @@
 % 3. If you use laser to shoot you sample, this code can generate a laser
 % spot on screen for easy shooting
 % Author: Yao Wang
-% Email: wang.yao@northeastern.edu
+% Email: wang.yao2@northeastern.edu
 
 clc
 close all
