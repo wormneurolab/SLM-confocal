@@ -1,7 +1,7 @@
 % SLM-confocal 2D imaging
 
 % Author: Yao Wang
-% Email: wang.yao@northeastern.edu
+% Email: wang.yao2@northeastern.edu
 
 
 clc
