@@ -1,6 +1,7 @@
 % Show an outline and a cross to the SLM
+
 % Author: Yao Wang
-% Email: wang.yao@northeastern.edu
+% Email: wang.yao2@northeastern.edu
 
 
 %% Creat original picture
