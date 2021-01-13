@@ -1,7 +1,7 @@
 % Acquire a wide field 3D Z stack image while SLM is in the field stop 
 
 % Author: Yao Wang
-% Email: wang.yao@northeastern.edu
+% Email: wang.yao2@northeastern.edu
 
 clc
 close all
